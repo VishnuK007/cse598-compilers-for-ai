@@ -1,4 +1,4 @@
-### Papers Vibe Logs
+### Paper Vibe Logs
 
 | Date | Paper |
 |------|-------|
