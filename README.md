@@ -11,3 +11,4 @@
 | 9/22 | [PyTorch 2: Faster Machine Learning Through Dynamic Python Bytecode Transformation and Graph Compilation](https://chatgpt.com/share/68d17a98-3a1c-8008-bb38-8732615a4e80)
 | 9/22 | [TorchBench: Benchmarking PyTorch with High API Surface Coverage](https://chatgpt.com/share/68d17c1d-399c-8008-84ee-eb0c24fea14c)
 | 9/24 | [TorchTitan: One-stop PyTorch native solution for production ready LLM pretraining](https://chatgpt.com/share/68d42883-ff28-8008-af53-16c5bc775f3b)
+| 9/24 | [ECLIP: Energy-efficient and Practical Co-Location of ML Inference on Spatially Partitioned GPUs](https://chatgpt.com/share/68d42af9-c3f0-8008-abdb-a5662900e7d2)
