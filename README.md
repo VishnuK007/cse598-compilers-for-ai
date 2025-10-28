@@ -20,3 +20,5 @@
 | 10/20 | [Glow: Graph Lowering Compiler Techniques for Neural Networks](https://chatgpt.com/share/6900d8ed-b6b0-8011-9e71-b3031e1d1ee4)
 | 10/27 | [Efficient Memory Management for Large Language Model Serving with PagedAttention](https://chatgpt.com/share/6900d9c2-ce0c-8011-bbee-cd2378fd937b)
 | 10/27 | [Jenga: Effective Memory Management for Serving LLM with Heterogeneity](https://chatgpt.com/share/6900da6d-7f10-8011-9eed-25d4ae5f98c6)
+| 10/29 | [Demystifying the Nvidia Ampere Architecture through Microbenchmarking and Instruction-level Analysis](https://chatgpt.com/share/6900db69-21e4-8011-8391-83435e1428cb)
+| 10/29 | [Optimizing sDTW for AMD GPUs](https://chatgpt.com/share/6900dc10-39bc-8011-83ea-6e4325e80ecb)
