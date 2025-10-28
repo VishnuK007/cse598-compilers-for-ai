@@ -16,3 +16,5 @@
 | 9/29 | [Geak: Introducing Kernel AI Agent and Evaluation Benchmarks](https://chatgpt.com/share/68dae93b-22c0-8008-8914-f2bcd7e5b9b7)
 | 10/1 | [Operator Fusion in XLA: Analysis and Evaluation](https://chatgpt.com/share/6900d65a-d60c-8011-ba6e-277972849797)
 | 10/1 | [Memory Safe Computations with XLA Compiler](https://chatgpt.com/share/6900d75e-7040-8011-93cd-b76d0ec6f601)
+| 10/20 | [MLIR: A Compiler Infrastructure for the End of Moore’s Law](https://chatgpt.com/share/6900d86c-71a4-8011-a1cf-e5893627f31d)
+| 10/20 | [Glow: Graph Lowering Compiler Techniques for Neural Networks](https://chatgpt.com/share/6900d8ed-b6b0-8011-9e71-b3031e1d1ee4)
