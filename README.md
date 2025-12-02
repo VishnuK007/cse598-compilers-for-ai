@@ -22,3 +22,5 @@
 | 10/27 | [Jenga: Effective Memory Management for Serving LLM with Heterogeneity](https://chatgpt.com/share/6900da6d-7f10-8011-9eed-25d4ae5f98c6)
 | 10/29 | [Demystifying the Nvidia Ampere Architecture through Microbenchmarking and Instruction-level Analysis](https://chatgpt.com/share/6900db69-21e4-8011-8391-83435e1428cb)
 | 10/29 | [Optimizing sDTW for AMD GPUs](https://chatgpt.com/share/6900dc10-39bc-8011-83ea-6e4325e80ecb)
+| 11/12 | [TPU v4: An Optically Reconfigurable Supercomputer for Machine Learning with Hardware Support for Embeddings](https://chatgpt.com/share/692ef4c3-be0c-8011-8d91-ac3538c695e2)
+| 11/12 | [MTIA: First Generation Silicon Targeting Meta's Recommendation Systems](https://chatgpt.com/share/692ef56b-c458-8011-a262-a2e3a0e70d92)
